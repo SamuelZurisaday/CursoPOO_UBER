@@ -1,0 +1,28 @@
+OBJETOS:
+
+USER
+ROUTE
+DRIVER
+
+CARD
+PAYPAL
+CASH
+
+TRIP
+
+UBERX 
+UBERPOOL
+UBERBLACK
+UBERVAN
+
+JAVA
+class Person{}
+
+Python
+class Person:
+
+Javascript:
+function Person(){}
+
+PHP
+class Person{}

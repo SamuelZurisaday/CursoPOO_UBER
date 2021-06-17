@@ -1,0 +1,13 @@
+9 Abstracción y Clases
+Una Clase es el modelo por el cual nuestros objetos se van a construir y nos van a permitir generar más objetos.
+
+Analizamos Objetos para crear Clases. Las Clases son los modelos sobres los cuales construiremos nuestros objetos.
+
+Abstracción es cuando separamos los datos de un objeto para generar un molde.
+
+
+Una Clase Es el modelo sobre el cual nuestros objetos se construyen.
+
+Es decir si tenemos un objeto llamado perro y este tiene sus atributos que lo describen generalmente y a su vez 
+tiene métodos donde se define las acciones que pueda hacer ese perrito. Una clase me permite generar mas objetos (mas perros) 
+con mismos atributos y métodos pero con resultados diferentes.

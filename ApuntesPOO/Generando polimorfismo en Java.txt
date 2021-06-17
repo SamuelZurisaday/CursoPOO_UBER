@@ -1,0 +1,4 @@
+Generando polimorfismo en Java
+Polimorfismo: Muchas formas. Poli = muchas, morfismo = formas. NO es Poliformismo
+
+Es construir métodos con el mismo nombre pero con comportamiento diferente
