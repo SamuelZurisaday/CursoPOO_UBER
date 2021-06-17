@@ -12,6 +12,6 @@ if __name__ == "__main__":
     # print(vars(car))
 
     # car2 = Car()
-    # car2.license = "JKJ2836"
+    # car2.license = "JKX2836"
     # car2.driver  = "Samuel Zurisaday"
     # print(vars(car2))
